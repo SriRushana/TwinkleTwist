@@ -1,0 +1,77 @@
+header{
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+h1{
+    color: white;
+    font-size: 75px;
+}
+.p{
+    color: orange;
+    font-size: 200%;
+}
+.input{
+    background-color: orange;
+    color:white;
+    border-radius: 47px ;
+    border-color: red;
+    margin: 4%;
+    font-size: 150%;
+}
+li{padding: 5%;}
+nav ul{
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-top: 30px;
+    font-size: 30px;
+    
+}
+.section{
+    justify-content: space-between;
+    display: flex;
+}
+section{
+    margin: 50px;
+}
+button{
+    border-color: blue;
+    background-color: transparent;
+    border-radius: 80px;
+}
+h2{
+    font-size: 50px;
+}
+.image{
+    display: flex;
+    justify-content: space-between;
+}
+figure{
+    box-shadow: 2px 2px 5px gray;
+}
+h3{
+    font-size: 40px;
+    text-align: center;
+}
+table{
+    margin: auto;
+    width: 75%;
+}
+footer{
+    color: gray;
+}
+.cen{
+    text-align: center;
+}
+.box{
+    width:50%;
+    padding: 1%;
+}
+.but{
+    color: white;
+    background-color: blueviolet;
+    border-radius: 47px;
+    width: 10%;
+    padding: 1%;
+}
